@@ -21,9 +21,12 @@ I believe in continuous learning and always strive to improve my skills. Current
 
 I'm always open to collaboration and learning from others. You can reach me through:
 
+
 <h2 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40"> Connect with me:</h2>
 <div align="left">
+  
 ***
+  
 <p align="center">
   <a href="https://discord.gg/w5yYDqRVme"><img src="https://discordapp.com/api/guilds/625977459845890049/widget.png?style=banner2" alt="Discord server">
   </a>
@@ -34,6 +37,7 @@ I'm always open to collaboration and learning from others. You can reach me thro
 
 
 ***
+
 <!-- 
  [![Discord](https://img.shields.io/badge/Discord-%230167ff.svg?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/VzGNhtmmfB)
  [![Email](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=for-the-badge&logo=gmail&logoColor=white)](un.sophan96@gmail.com)
