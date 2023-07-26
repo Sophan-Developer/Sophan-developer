@@ -44,9 +44,7 @@ Feel free to shoot me a message!
 
 ![Sophan-Developer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sophan-Developer&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-## 🎵 Favorite Quote
 
-"Your favorite song is not your favorite song until you've listened to it a hundred times without getting tired of it." - Unknown
 
 Enjoy your stay here! 😄
 
@@ -60,7 +58,9 @@ Enjoy your stay here! 😄
 
 <!--
 **Sophan-Developer/Sophan-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎵 Favorite Quote
 
+"Your favorite song is not your favorite song until you've listened to it a hundred times without getting tired of it." - Unknown
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
