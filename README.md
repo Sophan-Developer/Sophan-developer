@@ -21,7 +21,15 @@ I believe in continuous learning and always strive to improve my skills. Current
 
 I'm always open to collaboration and learning from others. You can reach me through:
 
+<h2 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40"> Connect with me:</h2>
+<div align="left">
+
+
+ [![Discord](https://img.shields.io/badge/Discord-%230167ff.svg?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/VzGNhtmmfB)
+ [![Email](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=for-the-badge&logo=gmail&logoColor=white)](un.sophan96@gmail.com)
+
 - Email: un.sophan96@gmail.com
+
 <!--
 - LinkedIn: [Sophan Developer](https://www.linkedin.com/in/sophan-dev)
 - Twitter: [@sophan_dev](https://twitter.com/sophan_dev)
