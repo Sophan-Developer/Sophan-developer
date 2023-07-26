@@ -1,7 +1,7 @@
 # Hi there, I'm Sophan-Developer! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding and love to create exciting projects that solve real-world problems. Feel free to explore my repositories and check out the ones that interest you.
-
+<!--
 ## 🔭 Current Projects
 
 - [Project 1](link-to-project-1): A brief description of Project 1.
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about coding and love to create exc
 - ...
 
 ## 🌱 What I'm Currently Learning
-
+-->
 I believe in continuous learning and always strive to improve my skills. Currently, I'm focusing on:
 
 - Java
