@@ -45,7 +45,8 @@ Feel free to shoot me a message!
 ![Sophan-Developer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sophan-Developer&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## Social Activity
-<a href="https://discord.com/users/363541262730526734"><img src="https://lanyard.cnrad.dev/api/363541262730526734" alt="Discord Presence"></a>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/363541262730526734?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/363541262730526734)
+
 
 Enjoy your stay here! 😄
 
