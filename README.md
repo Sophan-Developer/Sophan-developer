@@ -23,28 +23,21 @@ I'm always open to collaboration and learning from others. You can reach me thro
 
 <h2 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40"> Connect with me:</h2>
 <div align="left">
- 
 ***
 <p align="center">
-  <a href="https://discord.gg/VzGNhtmmfB"><img src="https://discordapp.com/api/guilds/625977459845890049/widget.png?style=banner2" alt="Discord server">
+  <a href="https://discord.gg/w5yYDqRVme"><img src="https://discordapp.com/api/guilds/625977459845890049/widget.png?style=banner2" alt="Discord server">
   </a>
   <a href="https://discord.com/users/363541262730526734">
-    <img src="https://discord.c99.nl/widget/theme-3/363541262730526734.png" width = 376,5px alt="Discord"/>
+    <img src="https://discord.c99.nl/widget/theme-2/363541262730526734.png" width = 376,5px alt="Discord"/>
   </a>
 </p>
 
-<!-- <div align="center" width="40">
-
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MGalaCyber&theme=dark&data=followers,repositories,stars,commits)
-
-</div> -->
 
 ***
-
-
-<!-- [![Discord](https://img.shields.io/badge/Discord-%230167ff.svg?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/VzGNhtmmfB) -->
-<!-- [![Email](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=for-the-badge&logo=gmail&logoColor=white)](un.sophan96@gmail.com)-->
-
+<!-- 
+ [![Discord](https://img.shields.io/badge/Discord-%230167ff.svg?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/VzGNhtmmfB)
+ [![Email](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=for-the-badge&logo=gmail&logoColor=white)](un.sophan96@gmail.com)
+ -->
 - Email: un.sophan96@gmail.com
 
 <!--
